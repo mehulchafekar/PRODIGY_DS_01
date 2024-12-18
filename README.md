@@ -24,13 +24,18 @@ By Mehul Chafekar
 # Business Objective
 - The primary business objective of this project is to provide actionable insights into global population trends that can inform strategic planning and decision-making.
 - By understanding historical population data and identifying key patterns, stakeholders can make data-driven decisions in areas such as:
+  
 **Urban Planning and Development:**
    Plan for infrastructure development and resource allocation based on population growth trends.
+   
 **Healthcare Services:**
    Anticipate healthcare needs and services for regions with rapidly growing populations.
+   
 **Market Research and Expansion:**
    Identify potential markets for business expansion by analyzing population demographics.
+
 **Policy Formulation:**
    Develop policies that address the needs of diverse populations and promote sustainable growth.
+
 **Educational Planning:**
    Forecast educational needs and allocate resources to regions with high population growth.
