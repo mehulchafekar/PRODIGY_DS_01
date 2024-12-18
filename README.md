@@ -43,15 +43,25 @@ By Mehul Chafekar
    # Steps for projects:
 
    **1. Import necessary libraries for data manipulation and visualization.**
+   
    **2. Load the dataset into a pandas DataFrame.**
+   
    **3. Display the first 10 and last rows of the DataFrame to get an overview of the data.**
+   
    **4. Get the number of rows and columns in the dataset using df.shape: Returns a tuple representing the dimensions of the DataFrame.**
+   
    **5. Display information about the DataFrame, including the data types and non-null values using df.info(): Provides a concise summary of the DataFrame.**
+   
    **6. Generate descriptive statistics of the dataset using df.describe(): Provides a summary for numerical columns, including mean, standard deviation, min, and max values.**
+   
    **7. Display the names of the columns in the DataFrame using df.columns: Returns the column labels of the DataFrame.**
+   
    **8. Check for duplicate rows in the dataset using df.duplicated().sum(): Counts the number of duplicate rows and df.duplicated().value_counts(): Provides the frequency of unique and duplicate rows.**
+   
    **9. Check for missing values in each column of the DataFrame using df.isnull().sum(): Returns the number of missing values in each column.**
+   
    **10. Find the number of unique values in each column using df.nunique(): Counts the number of unique values per column.**
+   
    **11. Display unique values in specific columns and count the unique entries.**
    - df['Country Name'].unique(): Lists unique country names.
    - df['Country Name'].nunique(): Counts unique country names.
