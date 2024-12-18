@@ -1,7 +1,7 @@
 # PRODIGY_DS_01
 ![population](https://github.com/user-attachments/assets/643961ed-5d1d-41d6-8c6d-5a25df0b1028)
 
-Project Name: Exploring Global Population Trends: A Data Visualization Project
+*Project Name: Exploring Global Population Trends: A Data Visualization Project*
 By Mehul Chafekar
 *Project Introduction*
 - Understanding global population trends is crucial for governments, policymakers, researchers, and businesses.
